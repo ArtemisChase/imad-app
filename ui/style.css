@@ -1,11 +1,11 @@
 body {
-    font-family: calibri;
+    font-family: papyrus;
     background-color: blue;
     margin-top: 75px;
 }
 
 .center {
-    text-align: left;
+    text-align: center;
 }
 
 .text-big {
@@ -13,7 +13,7 @@ body {
 }
 
 .bold {
-    font-weight: bold;
+    font-weight: italic;
 }
 
 .img-medium {
